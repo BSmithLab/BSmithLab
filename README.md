@@ -1,5 +1,5 @@
 - 👋 Hi, We are @BSmithLab
-- 👀 The Barbara Smith Lab group are interested in the integration of top-down systems biology and bioinformatics to address questions related to human health and disease.
+- 👀 The Barbara Smith Lab is interested in the integration of top-down systems biology and bioinformatics to address questions related to human health and disease.
 - 📫 You can reach us at jeshima@asu.edu and BarbaraSmith@asu.edu 
 
 <!---
